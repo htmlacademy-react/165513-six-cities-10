@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
 * Студент: [Stepan Nikiforov](https://up.htmlacademy.ru/react/10/user/165513).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий (sench) Железцов](https://htmlacademy.ru/profile/sench).
 
 ---
 
