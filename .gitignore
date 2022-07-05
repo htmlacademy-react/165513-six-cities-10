@@ -1,0 +1,12 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# misc
+Thumbs.db
+.DS_Store
+.env
+*.log*
+
+# editors
+*.idea*
+*.sublime*
+.vscode
